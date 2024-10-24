@@ -14,7 +14,7 @@
 ### GitHub Stats:
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nuraj250&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nuraj250&layout=compact&theme=radical)
-[-->](https://github-readme-streak-stats.herokuapp.com/?user=Nuraj250&theme=black-ice&hide_border=true&stroke=0000&background=000000)
+![Current Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nuraj250&theme=black-ice&hide_border=true&stroke=0000&background=000000)
 
 
 <!--
