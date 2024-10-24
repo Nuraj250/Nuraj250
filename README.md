@@ -14,7 +14,7 @@
 <div align="center">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/readme/resources/img/grid-snake.svg"
        alt="snake" /></a>
-</div> -->
+</div>
 
 
 <!--h2 without bottom borde
@@ -22,7 +22,7 @@
   <ul align="center">
     <summary><h2 style="display: inline-block">Confusion is part of Programming</h2></summary>
   </ul>
-</div>r-->
+</div>r
 
 
 <!--Intro start
@@ -39,7 +39,7 @@
 - 📫 Feel free to reach me out **nishantjangid6377@gmail.com**
 
 - 🏠 Don't hesitate to drop me a **👋** on Discord –  [1010nishant](https://discordapp.com/users/957722095381540874) my username!
-<!--Intro end-->-->
+<!--Intro end-->
 
 
 
@@ -113,7 +113,7 @@
 <!--profile visit count-->
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=Nuraj250&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
@@ -121,10 +121,6 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-----------------------------------------------------------------------
-Credit: [1010nishant](https://github.com/1010nishant)
-
-Last Edited on: 29/4/2023
 
 <!--
 - 📍 Galle, Sri Lanka
