@@ -66,8 +66,8 @@
 
 <!--tech stack icons-->
 <p align="center">
-    <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,cpp,css,postgres, figma,github,html,java,js,md,materialui,nginx,mongodb,mysql,nodejs,postman,py,ts,vscode,azure,bitbucket,bootstrap,docker,fastapi,flask,ai,kafka,maven,npm,react,spring,sklearn,tensorflow&perline=14" />
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,cpp,css,postgres,figma,github,html,java,js,md,materialui,nginx,mongodb,mysql,nodejs,postman,py,ts,vscode,azure,bitbucket,bootstrap,docker,fastapi,flask,ai,kafka,maven,npm,react,spring" />
   </a>
 <!--  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,cpp,css,postgres, figma,github,html,java,js,md,materialui,nginx,mongodb,mysql,nodejs,postman,py,ts,vscode,azure,bitbucket,bootstrap,docker,fastapi,flask,ai,kafka,maven,npm,react,spring,sklearn,tensorflow&perline=14" />
