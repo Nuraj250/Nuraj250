@@ -90,9 +90,11 @@
 
 
 <!--profile visit count-->
-<div align="center">
-![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=flat) |  
-</div>
+<!-- Profile view counter -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Nuraj250&label=Profile%20views&color=0e75b6&style=flat" alt="Nuraj250" />
+</p>
+
 
 
 <!--horizontal divider(gradiant)-->
