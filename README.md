@@ -91,8 +91,7 @@
 
 <!--profile visit count-->
 <div align="center">
-[![](https://komarev.com/ghpvc/?username=perisicnikola37&icon=3&color=6)](https://visitcount.itsvg.in)
-  
+![](https://img.shields.io/static/v1?label=Profile+views&message=1234567890&color=007ec6&style=flat) |  
 </div>
 
 
